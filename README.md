@@ -29,7 +29,7 @@ Deep Spiking Neural Networks (SNNs) combine the power of deep learning with Spik
 
   - [Dengyu-Wu/spkeras](https://github.com/Dengyu-Wu/spkeras) <img src="https://img.shields.io/github/stars/Dengyu-Wu/spkeras?style=social"/> : Conversion from CNNs to SNNs using Tensorflow-Keras
  
-  - [Hybrid-SNN-CNN-Prey-Tracking](https://github.com/ashwinlele/Hybrid-SNN-CNN-Prey-Tracking) <img src="https://img.shields.io/github/stars/Hybrid-SNN-CNN-Prey-Tracking?style=social"/> : This directory contains the code for hybrid SNN+CNN prey tracking algorithm. This is built using PEDRA drone simulator: https://github.com/aqeelanwar/PEDRA and V2E: frame to event converter: https://github.com/SensorsINI/v2e.
+  - [Hybrid-SNN-CNN-Prey-Tracking](https://github.com/ashwinlele/Hybrid-SNN-CNN-Prey-Tracking) <img src="https://img.shields.io/github/stars/ashwinlele/Hybrid-SNN-CNN-Prey-Tracking?style=social"/> : This directory contains the code for hybrid SNN+CNN prey tracking algorithm. This is built using PEDRA drone simulator: https://github.com/aqeelanwar/PEDRA and V2E: frame to event converter: https://github.com/SensorsINI/v2e.
 
   - [SonpKing/CNN2SNN](https://github.com/SonpKing/CNN2SNN) <img src="https://img.shields.io/github/stars/SonpKing/CNN2SNN?style=social"/> : This project aims to convert Artificial Neuron Network to Spiking Neuron Network
 
